@@ -1,7 +1,6 @@
 # Welcome, dev😉
-<br>📚Computer science student, currently focusing studies on front-end and neural networks with pytorch.
+<br>📚Computer science student, currently focusing studies on front-end and neural networks with pytorch.<br>
 
-## 🌐 Socials:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-sampietro-67b676213/)
 
 <!--
