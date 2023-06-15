@@ -1,10 +1,9 @@
 # Welcome, dev😉
 <br>📚Computer science student, currently focusing studies on front-end.
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsampp&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐 Socials:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-sampietro-67b676213/)
-
 
 <!--
 **bsampp/bsampp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
