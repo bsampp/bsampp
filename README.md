@@ -1,5 +1,5 @@
 # Welcome, dev😉
-<br>📚Computer science student, currently focusing studies on front-end.
+<br>📚Computer science student, currently focusing studies on front-end.<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsampp&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐 Socials:
