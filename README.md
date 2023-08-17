@@ -1,5 +1,8 @@
 # 🤙
-<br>📚 Computer science student, currently focusing studies on front-end development with react.<br>
+<br>📚 Computer science student, currently focusing studies on:
+- Front-end development with react
+- Neural networks development with pytorch
+<br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-sampietro-67b676213/)
 
